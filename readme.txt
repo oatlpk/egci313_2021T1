@@ -1,1 +1,2 @@
-hello world
+hello world!
+welcome to egci 313 
